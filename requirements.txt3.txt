@@ -1,0 +1,4 @@
+# Requirements for Gemini-based RAG system
+# Uses requests for Gemini API calls
+requests
+python-dotenv

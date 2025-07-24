@@ -1,0 +1,12 @@
+uvicorn
+fastapi
+pdfplumber
+nltk
+openai
+psycopg2-binary
+pgvector
+langdetect
+python-dotenv
+requests
+pandas
+scikit-learn

@@ -1,0 +1,11 @@
+{
+  "name": "RAG Pipeline Workflow",
+  "nodes": [
+    {"name": "Upload PDF", "type": "trigger"},
+    {"name": "Preprocess & Chunk", "type": "python", "script": "book/preprocess.py & book/chunker.py"},
+    {"name": "Embed Chunks", "type": "python", "script": "rag/embedding.py"},
+    {"name": "Store in DB", "type": "python", "script": "rag/db.py"},
+    {"name": "User Query", "type": "webhook"},
+    {"name": "Retrieve & Answer", "type": "python", "script": "rag/main.py"}
+  ]
+} 
