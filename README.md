@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 10 MiniteSchool RAG
 
 A Retrieval-Augmented Generation (RAG) pipeline for answering English and Bengali queries using the HSC26 Bangla 1st paper PDF as a knowledge base.
@@ -34,3 +35,6 @@ TBD
   Expected Answer: মামাকে
 - User Question: বিয়ের সময় কল্যাণীর প্রকৃত বয়স কত ছিল?  
   Expected Answer: ১৫ বছর 
+=======
+# 10-MIniteSchool-RAG
+>>>>>>> 5deff4ba8c7b4ca99ca697f9a5a3873ccb6cfbd5
