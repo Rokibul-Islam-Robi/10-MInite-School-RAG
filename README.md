@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # 10 Minute School RAG
+=======
+
+# 10 MiniteSchool RAG
+>>>>>>> becc3bbd39771d2dee5ecda226e50c050dfb73c9
 
 A Retrieval-Augmented Generation (RAG) pipeline for answering English and Bengali queries using the HSC26 Bangla 1st paper PDF as a knowledge base.
 
@@ -114,6 +119,7 @@ curl -X 'POST' \
 - `README.md`: This file.
 
 ## Sample Test Cases
+<<<<<<< HEAD
 
 - **User Question:** অনুপমের ভাষায় সুপুরুষ কাকে বলা হয়েছে?
   **Expected Answer:** শুম্ভুনাথ
@@ -121,3 +127,11 @@ curl -X 'POST' \
   **Expected Answer:** মামাকে
 - **User Question:** বিয়ের সময় কল্যাণীর প্রকৃত বয়স কত ছিল?
   **Expected Answer:** ১৫ বছর
+=======
+- User Question: অনুপমের ভাষায় সুপুরুষ কাকে বলা হয়েছে?  
+  Expected Answer: শুম্ভুনাথ
+- User Question: কাকে অনুপমের ভাগ্য দেবতা বলে উল্লেখ করা হয়েছে?  
+  Expected Answer: মামাকে
+- User Question: বিয়ের সময় কল্যাণীর প্রকৃত বয়স কত ছিল?  
+  Expected Answer: ১৫ বছর 
+>>>>>>> becc3bbd39771d2dee5ecda226e50c050dfb73c9
