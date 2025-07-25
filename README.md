@@ -35,9 +35,3 @@ TBD
   Expected Answer: মামাকে
 - User Question: বিয়ের সময় কল্যাণীর প্রকৃত বয়স কত ছিল?  
   Expected Answer: ১৫ বছর 
-=======
-# 10-MIniteSchool-RAG
->>>>>>> 5deff4ba8c7b4ca99ca697f9a5a3873ccb6cfbd5
-=======
-# 10-MInite-School-RAG
->>>>>>> b200322de12b473d36329fc02d6e4eeffe880fc9
