@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 10 MiniteSchool RAG
 
 A Retrieval-Augmented Generation (RAG) pipeline for answering English and Bengali queries using the HSC26 Bangla 1st paper PDF as a knowledge base.
@@ -38,3 +39,6 @@ TBD
 =======
 # 10-MIniteSchool-RAG
 >>>>>>> 5deff4ba8c7b4ca99ca697f9a5a3873ccb6cfbd5
+=======
+# 10-MInite-School-RAG
+>>>>>>> b200322de12b473d36329fc02d6e4eeffe880fc9
