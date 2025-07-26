@@ -23,4 +23,4 @@ def ask(request: QueryRequest):
         "chat_history": memory.get_history()
     }
 
-# Add evaluation endpoint as needed 
+# Add evaluation endpoint as needed

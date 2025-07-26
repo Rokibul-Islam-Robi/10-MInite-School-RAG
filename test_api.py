@@ -21,4 +21,4 @@ for i, (question, expected) in enumerate(sample_questions, 1):
             print(f"Error: Status code {response.status_code}")
             print(response.text)
     except Exception as e:
-        print(f"Request failed: {e}") 
+        print(f"Request failed: {e}")

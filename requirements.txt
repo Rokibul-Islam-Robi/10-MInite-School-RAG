@@ -10,3 +10,11 @@ python-dotenv
 requests
 pandas
 scikit-learn
+pdfplumber
+langdetect
+psycopg2-binary
+uvicorn
+fastapi
+openai
+python-dotenv
+
